@@ -5,6 +5,7 @@ def map_to_negativize(array)
     new.push(array[i] * -1)
     i++
   end
+  return new
 end
 
 
